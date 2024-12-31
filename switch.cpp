@@ -1,14 +1,11 @@
 #include<iostream>
-
 using namespace std;
 
 int main()
 {
     int m;
-
     cout<<"Enter the number: ";
     cin>>m;
-
     switch(m)
     {
         case 1:
